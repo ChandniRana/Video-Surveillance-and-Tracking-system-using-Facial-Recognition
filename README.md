@@ -26,7 +26,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
+<img src="https://github.com/ChandniRana/Video-Surveillance-and-Tracking-system-using-Facial-Recognition/blob/main/50.png">
 
 ### When it's Recognise me
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
@@ -42,18 +42,3 @@
 
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
 
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
-
-
-### Notes
-- It will require high processing power(I have 8 GB RAM & 2 GB GC)
-- If you think it will recognise person just like humans,than leave it ,its not possible.
-- Noisy image can reduce your accuracy so quality of images matter.
-
-## Just follow☝️ me and Star⭐ my repository 
-
-## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
-
-## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
